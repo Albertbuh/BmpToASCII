@@ -1,0 +1,6 @@
+﻿  program.c
+D:\Univer\CPO\Labs\LabGraph\ABOBA\LabBMPadvanced\LabBMPadvanced\readBMP.h(45,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Univer\CPO\Labs\LabGraph\ABOBA\LabBMPadvanced\LabBMPadvanced\program.c(13,33): warning C4142: "int16": неопасное переопределение типа
+D:\Univer\CPO\Labs\LabGraph\ABOBA\LabBMPadvanced\LabBMPadvanced\readBMP.h(18): message : см. объявление "int16"
+D:\Univer\CPO\Labs\LabGraph\ABOBA\LabBMPadvanced\LabBMPadvanced\program.c(78,9): warning C4244: return: преобразование "float" в "byte", возможна потеря данных
+  LabBMPadvanced.vcxproj -> D:\Univer\CPO\Labs\LabGraph\ABOBA\LabBMPadvanced\x64\Debug\LabBMPadvanced.exe
